@@ -20,7 +20,6 @@ Ici s'affiche les questions dynamiquement, et on passe d'une question à une aut
 ![quiz_3](https://github.com/ab-talbi/quiz-app-devoir/assets/101748749/f3cbbb16-cbcc-461f-b9f5-7939466a6ca7)
 ![quiz_4](https://github.com/ab-talbi/quiz-app-devoir/assets/101748749/a88c2efb-a29b-4b32-9d21-2bdb49f1fc26)
 ![quiz_5](https://github.com/ab-talbi/quiz-app-devoir/assets/101748749/54598e07-aac8-4bf6-87e3-8b113162e3b5)
-![quiz_6](https://github.com/ab-talbi/quiz-app-devoir/assets/101748749/42e39057-c23c-46ad-abba-4f8d6390a7dd)
 
  <br>
  
@@ -31,7 +30,8 @@ Ici on affiche le score de l'utilisateur ainsi que les questions avec ses repons
 ![result_2)](https://github.com/ab-talbi/quiz-app-devoir/assets/101748749/22046f8a-5192-4e15-ba43-617eaaeac921)
 
  <br>
-#### Réalisé par : TALBI AYOUB
+ 
+## Réalisé par : TALBI AYOUB
 
 
 
